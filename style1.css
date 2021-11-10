@@ -1,0 +1,16 @@
+h1 {
+    color: aqua;
+
+}
+h2 {
+    color: burlywood;
+}
+h3 {
+    color: blueviolet;
+}
+.btn-dark {
+    background-color: burlywood;
+    color: black;
+    width: 50em;
+    height: 3em;
+}
