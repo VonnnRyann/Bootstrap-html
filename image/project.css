@@ -1,0 +1,32 @@
+img {
+    height: 70vmin;
+    width: 90vmin;
+    margin-top: 10rem;
+    border-radius: 5rem;
+}
+p, h5 {
+    text-align: center;
+    font-family: 'Lora', serif;
+    /* border: 1px solid black; */
+    width: 60vw;
+    display: block;
+    margin: auto;
+    border-radius: 2rem;
+    
+
+}
+h5 {
+    font-weight: bold;
+    font-size: 3rem;
+}
+p {
+    font-size: 2rem;
+}
+body{
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+    background: linear-gradient(#65768C, #B0B7bf);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

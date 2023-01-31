@@ -1,0 +1,25 @@
+.mb-3 {
+    width: 300px;
+    height: 300px;
+}
+.font-italic {
+    padding-left: 2.1rem;
+}
+
+footer {
+    font-family: 'Lora', serif;
+    background: transparent;
+    background: linear-gradient(#65768C,#B0B7bf );
+    margin-top: 10rem;
+}
+/* .right {
+    color: #011640;
+} */
+
+.last-one{
+    background: linear-gradient(#B0B7bf,#65768C );
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+img {
+    border-radius: 10px;
+}
